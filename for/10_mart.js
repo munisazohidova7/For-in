@@ -1,14 +1,3 @@
-// let oquvchilar = ["Ali", "Madinabonu", "Javohir", "Ziyoda"];
-// oquvchilar.forEach(function (oquvci){
-//     console.log(oquvci)
-// })
-//
-// let narxlar = [25000, 18000, 32000, 50000];
-// narxlar.forEach(function (narx){
-//     console.log(narx)
-// })
-
-
 
 let mahsulotlar = ["olma", "olcha" , "gilos" , "tarvuz"]
 let narx = [30000 , 20000 , 50000 , 80000]
